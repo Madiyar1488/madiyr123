@@ -1,0 +1,24 @@
+.madiyr{
+    background-color: rgb(252, 156, 13);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.madi{
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+    border-radius: 50%;
+}
+.name{
+    color: brown;
+    width: 200px;
+    
+}
+form{
+    width: 300px;
+    margin: 50PX auto;
+    padding: 20PX;
+    border: 1PX solid #baf3ba;
+    color: rgb(229, 229, 229);
+}
